@@ -1,5 +1,4 @@
-# Homework 2
-iphone 6 App calculator 
+# iphone 6 app calculator example
 
 After creating a new project, go to main.storyboard and create a button. The size of the button should be 1/4 of the total width of the phone. 
 
