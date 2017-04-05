@@ -10,11 +10,11 @@ Give the button the style you're looking for. Here, I changed the font and the b
 
 Next, copy the button to resemble a calculator.
 
-<a href="url"><img src="https://github.com/raquerod/calc/blob/master/images/Screen%20Shot%202017-04-02%20at%203.09.40%20PM.png" align="center" height="500" width="500" ></a>
+<a href="url"><img src="https://github.com/raquerod/calc/blob/master/images/Screen%20Shot%202017-04-02%20at%203.09.40%20PM.png" align="center" height="350" width="500" ></a>
 
 After that, I gave functionality to the buttons. All the buttons are under the function "numbers" that will display the number as text in a label on top of the buttons. The number of the buttons is retrieved by using tags. The tags start at 1. So for the number 0 the tag is 1, 1 tag is 2 and so on. So when retriving the number the function will see who's the sender, read the tag, and display tag - 1.
 
-<a href="url"><img src="https://github.com/raquerod/calc/blob/master/images/Screen%20Shot%202017-04-02%20at%204.55.07%20PM.png" align="center" height="500" width="500" ></a>
+<a href="url"><img src="https://github.com/raquerod/calc/blob/master/images/Screen%20Shot%202017-04-02%20at%204.55.07%20PM.png" align="center" height="350" width="500" ></a>
 
 The same is done with the operations. A function listens to a button being clicked and gets the tag, depending on the tag, there is an operation that happens. 
 
