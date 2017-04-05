@@ -18,4 +18,7 @@ After that, I gave functionality to the buttons. All the buttons are under the f
 
 The same is done with the operations. A function listens to a button being clicked and gets the tag, depending on the tag, there is an operation that happens. 
 
+Finally, the calculator looks like this
+
+![alt text](https://github.com/raquerod/calc/blob/master/images/Screen%20Shot%202017-04-05%20at%2012.56.45%20PM.png "Calculator Finished")
 
